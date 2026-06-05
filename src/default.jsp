@@ -27,7 +27,7 @@
 
   <body>
     <tagfiles:header />
-    <div id="hate" class="container snakes snake-hater">
+    <div id="hate" class="THe last ride">
       <h1 class="cover-heading">Does it have snakes?</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
